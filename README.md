@@ -5,41 +5,51 @@
 
 ---
 
-### 🔭 What I'm Currently Working On
-- Building **different platforms** (e.g., Problem Solver platform, ENIGDOCS website).  
-- Improving skills in **Java (Spring Boot, JEE), Python, HTML, CSS and ReactJs**.  
-- Developing projects that combine **backend performance** with **user-friendly UI/UX**.  
+## 🔭 What I'm Currently Working On
+- Building **innovative platforms** (e.g., Problem Solver platform, ENIGDOCS website).  
+- Improving expertise in **Java (Spring Boot, JEE), Python, React.js, HTML, CSS**.  
+- Creating projects that merge **scalable backends** with **engaging UI/UX**.  
 
 ---
 
-### 💻 My Projects  
-- **Portfolio:** [Wissem Bagga](https://wissembagga.vercel.app/)  
-- **GitHub:** [Wissem1111](https://github.com/Wissem1111)  
-- **ENIGDOCS:** [ENIGDOCS](https://enigdocs.onrender.com)  
+## 💻 Featured Projects  
+- 🌐 **Portfolio:** [Wissem Bagga](https://wissembagga.vercel.app/)  
+- 📂 **GitHub:** [Wissem1111](https://github.com/Wissem1111)  
+- 📘 **ENIGDOCS:** [ENIGDOCS](https://enigdocs.onrender.com)  
 
 ---
 
-### 💬 Ask Me About  
-`Java` • `Spring Boot` • `Python` • `HTML` • `CSS` • `JavaScript` • `MySQL` • `React`  
+## 💬 Ask Me About  
+`Java` • `Spring Boot` • `Python` • `React` • `HTML` • `CSS` • `JavaScript` • `MySQL`  
 
 ---
 
-### ⚙️ Languages & Tools
+## ⚙️ Languages & Tools
 <p>
 <img src="https://skillicons.dev/icons?i=java,spring,python,js,react,html,css,bootstrap,git,github,linux,mysql" />
 </p>
 
 ---
 
-### 📫 How to Reach Me
-- **Email:**  [wissem.bagga@gmail.com] 
-- **LinkedIn:** [click here](https://www.linkedin.com/in/wissem-bagga)   
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wissem1111&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wissem1111&layout=compact&theme=radical" height="160" />
+</p>
 
 ---
 
-### ⚡ Fun Fact
-> I believe in building **simple, useful, and creative projects** that make learning and problem-solving more enjoyable.
+## 📫 How to Reach Me
+- **Email:** wissem.bagga@gmail.com  
+- **LinkedIn:** [Wissem Bagga](https://www.linkedin.com/in/wissem-bagga)  
+
+---
+
+## ⚡ Fun Fact
+> I enjoy turning complex problems into **simple, elegant, and functional** solutions.  
 
 ---
 
 ⭐ _“Code with purpose, learn with passion.”_
+
+
