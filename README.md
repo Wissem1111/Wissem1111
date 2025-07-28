@@ -20,20 +20,20 @@
 ---
 
 ### 💬 Ask Me About  
-`Java` • `Spring Boot` • `Python` • `MERN Stack` • `Flutter` • `HTML` • `CSS` • `JavaScript` • `MySQL` • `React`  
+`Java` • `Spring Boot` • `Python` • `HTML` • `CSS` • `JavaScript` • `MySQL` • `React`  
 
 ---
 
 ### ⚙️ Languages & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,python,js,react,nodejs,mongodb,html,css,bootstrap,git,github,linux,mysql" />
+<img src="https://skillicons.dev/icons?i=java,spring,python,js,react,html,css,bootstrap,git,github,linux,mysql" />
 </p>
 
 ---
 
 ### 📫 How to Reach Me
-- **Email:** _[wissem.bagga@gmail.com]_  
-- **LinkedIn:** _[click here: ]_(https://enigdocs.onrender.com)   
+- **Email:**  [click here](wissem.bagga@gmail.com)  
+- **LinkedIn:** [click here](https://enigdocs.onrender.com)   
 
 ---
 
