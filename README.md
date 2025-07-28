@@ -1,53 +1,53 @@
-# Hi there 👋, I'm Wissem
+# 👋 Hi, I'm Wissem  
 
-🎯 **Software Engineering Student | Aspiring Full-Stack Developer**  
+**Software Engineering Student | Full-Stack Development Enthusiast**  
 📍 Tunisia  
 
 ---
 
-## 🔭 What I'm Currently Working On
-- Building **practical platforms** like [ENIGDOCS](https://enigdocs.onrender.com).  
-- Improving skills in **Java (Spring Boot, JEE), Python, React.js, and database design**.  
-- Developing applications that balance **scalable backend architecture** with **clean UI/UX**.  
+## 🔹 About Me  
+- 🎓 Engineering student focused on **software development and system design**  
+- 💻 Interested in **backend architecture, web applications, and scalable solutions**  
+- 🚀 Actively building projects to strengthen my expertise in **Java, Spring Boot, Python, and React**  
 
 ---
 
-## 💻 Selected Projects  
+## 🔹 Current Focus  
+- Developing **ENIGDOCS**, a platform for academic resources  
+- Expanding knowledge in **cloud technologies** and **database optimization**  
+- Improving code quality and following **clean software engineering principles**  
+
+---
+
+## 🔹 Key Projects  
 - **Portfolio:** [wissem-s-portfolio.onrender.com](https://wissem-s-portfolio.onrender.com)  
-- **GitHub Profile:** [github.com/Wissem1111](https://github.com/Wissem1111)  
 - **ENIGDOCS:** [enigdocs.onrender.com](https://enigdocs.onrender.com)  
+- **GitHub:** [github.com/Wissem1111](https://github.com/Wissem1111)  
 
 ---
 
-## 💬 Ask Me About
-`Java` • `Spring Boot` • `Python` • `React.js` • `MySQL` • `HTML` • `CSS` • `JavaScript`
+## 🔹 Skills & Technologies  
+`Java` • `Spring Boot` • `Python` • `React.js` • `HTML` • `CSS` • `JavaScript` • `MySQL` • `Git` • `Linux`
 
----
-
-## ⚙️ Languages & Tools
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java,spring,python,react,js,html,css,bootstrap,git,github,linux,mysql" />
 </p>
 
 ---
 
-## 📊 GitHub Insights
+## 🔹 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wissem1111&show_icons=true&theme=default" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wissem1111&layout=compact&theme=default" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Wissem1111&show_icons=true&hide_border=true&theme=light" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wissem1111&layout=compact&hide_border=true&theme=light" height="150" />
 </p>
 
 ---
 
-## 📫 Contact
-- **Email:** wissem.bagga@gmail.com  
-- **LinkedIn:** [linkedin.com/in/wissem-bagga](https://www.linkedin.com/in/wissem-bagga)
+## 🔹 Contact  
+- 📧 **Email:** wissem.bagga@gmail.com  
+- 🔗 **LinkedIn:** [linkedin.com/in/wissem-bagga](https://www.linkedin.com/in/wissem-bagga)  
 
 ---
 
-## ⚡ Fun Fact
-> I focus on building **simple, useful, and maintainable solutions**.
+⭐ _"Clean code, clear purpose."_  
 
----
-
-⭐ _“Code with purpose. Learn with consistency.”_
