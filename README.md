@@ -32,8 +32,8 @@
 ---
 
 ### 📫 How to Reach Me
-- **Email:**  [click here](wissem.bagga@gmail.com)  
-- **LinkedIn:** [click here](https://enigdocs.onrender.com)   
+- **Email:**  [wissem.bagga@gmail.com] 
+- **LinkedIn:** [click here](https://www.linkedin.com/in/wissem-bagga)   
 
 ---
 
