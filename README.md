@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Wissem
+# Hi there, I'm Wissem
 
 🎯 **Software Engineering Student | Aspiring Full-Stack Developer**  
 📍 Tunisia  
